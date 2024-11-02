@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../11.02"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../11.02/exam"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "간단한자기소개서sourcecode"
+	}
+}
